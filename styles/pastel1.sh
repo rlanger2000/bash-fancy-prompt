@@ -1,3 +1,5 @@
+## From https://github.com/rlanger2000/fancy-bash
+
 # Function to generate your dynamic Git segment
 __update_ps1_git_segment() {
   if git rev-parse --is-inside-work-tree &>/dev/null; then
