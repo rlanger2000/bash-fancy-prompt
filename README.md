@@ -61,7 +61,7 @@ sudo curl 'https://raw.githubusercontent.com/rlanger2000/fancy-bash/refs/heads/m
 
 # Uninstall
 **User uninstall**
-Uninstalls the components you installed globally.
+Uninstalls the components you installed for your user only.
 ```bash
 rm ~/.bashrc.d/rl-fancy-bash.sh
 rm ~/.bashrc.d/git-prompt.sh
@@ -73,3 +73,5 @@ Uninstalls the components you installed globally.
 sudo rm /etc/profile.d/rl-fancy-bash.sh
 sudo rm /etc/profile.d/git-prompt.sh
 ```
+
+**After doing either of these, restart your shell. Sadly I can't unload it easily.**
