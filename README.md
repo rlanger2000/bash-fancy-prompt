@@ -13,7 +13,7 @@ Some bash designs I made for myself. Should work with the default font of every 
 # Requirement
 ### Download git functionality
 This is mandatory, else you get errors all the time.\
-It's from the official repository for git itself, so no worries. You can [check the file yourself](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh){:target="_blank"} .
+It's from the official repository for git itself, so no worries. You can <a href="https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh" target="_blank">check the file yourself</a>.
 
 **User install**
 ```bash
