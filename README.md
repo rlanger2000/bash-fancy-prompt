@@ -15,12 +15,14 @@ sudo curl https://raw.githubusercontent.com/git/git/refs/heads/master/contrib/co
 ```
 sudo curl https://raw.githubusercontent.com/rlanger2000/bash-fancy-prompt/refs/heads/main/styles/neon -fo /etc/profile.d/fancy-prompt.sh
 ```
+<br>
 
 ### Pastel 1
 ![pastel1_neon](preview/pastel1.png)
 ```
 sudo curl https://raw.githubusercontent.com/rlanger2000/bash-fancy-prompt/refs/heads/main/styles/pastel1 -fo /etc/profile.d/fancy-prompt.sh
 ```
+<br>
 
 ## Restart your shell
 This will load the new style. Downloading a new one will overwrite the old one.
